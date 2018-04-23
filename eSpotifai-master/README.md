@@ -2,11 +2,11 @@
 <h3>Proyecto para la asignatura de Diseño y programación orientada a objetos.</h3>
 <h4>Miembros del proyecto</h4>
 <ul>
-  <li><b>Elna Cabot</b>: Responsable de presentación y multimedia.</li>
-  <li><b>Miguel Díaz</b>: Project Manager.</li>
-  <li><b>Marc Millán</b>: Responsable de documentaciíon escrita.</li>
-  <li><b>Alejandro Vogel</b>: Responsable de programa y versionamiento.</li>
-  <li><b>Marta Zapatero</b>: Responsable de seguimiento del proyecto.</li>
+  <li><b>Elna Cabot</b></li>
+  <li><b>Miguel Díaz</b></li>
+  <li><b>Marc Millán</b></li>
+  <li><b>Alejandro Vogel</b></li>
+  <li><b>Marta Zapatero</b></li>
 </ul>
 
 <h4>Objetivos</h4>
